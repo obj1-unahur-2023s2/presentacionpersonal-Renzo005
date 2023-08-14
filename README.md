@@ -10,4 +10,4 @@ Me dedico a / Trabajo de ...
 
 Les dejo una imagen mía 
 
-![subir archivo de imagen](imagen.jpg)
+![imagen](./assets/RenzoDottori.jpg)
